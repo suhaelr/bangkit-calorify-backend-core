@@ -142,6 +142,9 @@ cd Calorify
 npm install
 ```
 
+## Our Teams
+https://www.canva.com/design/DAFl8zkxCqg/TU_PmVBH_E7V3ia0E7VKwg/edit?utm_content=DAFl8zkxCqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Deploy to App Engine
 
 ```bash
